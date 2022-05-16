@@ -1,0 +1,15 @@
+C:\Users\codyh\my-code-dir\lab-0---first-c-Cody-Howell\bin\Debug\net6.0\lab-0---first-c-Cody-Howell.exe
+C:\Users\codyh\my-code-dir\lab-0---first-c-Cody-Howell\bin\Debug\net6.0\lab-0---first-c-Cody-Howell.deps.json
+C:\Users\codyh\my-code-dir\lab-0---first-c-Cody-Howell\bin\Debug\net6.0\lab-0---first-c-Cody-Howell.runtimeconfig.json
+C:\Users\codyh\my-code-dir\lab-0---first-c-Cody-Howell\bin\Debug\net6.0\lab-0---first-c-Cody-Howell.dll
+C:\Users\codyh\my-code-dir\lab-0---first-c-Cody-Howell\bin\Debug\net6.0\lab-0---first-c-Cody-Howell.pdb
+C:\Users\codyh\my-code-dir\lab-0---first-c-Cody-Howell\obj\Debug\net6.0\lab-0---first-c-Cody-Howell.csproj.AssemblyReference.cache
+C:\Users\codyh\my-code-dir\lab-0---first-c-Cody-Howell\obj\Debug\net6.0\lab-0---first-c-Cody-Howell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codyh\my-code-dir\lab-0---first-c-Cody-Howell\obj\Debug\net6.0\lab-0---first-c-Cody-Howell.AssemblyInfoInputs.cache
+C:\Users\codyh\my-code-dir\lab-0---first-c-Cody-Howell\obj\Debug\net6.0\lab-0---first-c-Cody-Howell.AssemblyInfo.cs
+C:\Users\codyh\my-code-dir\lab-0---first-c-Cody-Howell\obj\Debug\net6.0\lab-0---first-c-Cody-Howell.csproj.CoreCompileInputs.cache
+C:\Users\codyh\my-code-dir\lab-0---first-c-Cody-Howell\obj\Debug\net6.0\lab-0---first-c-Cody-Howell.dll
+C:\Users\codyh\my-code-dir\lab-0---first-c-Cody-Howell\obj\Debug\net6.0\refint\lab-0---first-c-Cody-Howell.dll
+C:\Users\codyh\my-code-dir\lab-0---first-c-Cody-Howell\obj\Debug\net6.0\lab-0---first-c-Cody-Howell.pdb
+C:\Users\codyh\my-code-dir\lab-0---first-c-Cody-Howell\obj\Debug\net6.0\lab-0---first-c-Cody-Howell.genruntimeconfig.cache
+C:\Users\codyh\my-code-dir\lab-0---first-c-Cody-Howell\obj\Debug\net6.0\ref\lab-0---first-c-Cody-Howell.dll
